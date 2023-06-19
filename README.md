@@ -14,7 +14,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on a QR Code Generator and Scanner Project 
+- 🔭 I’m currently working on cracking entrances xD
 
 - 🌱 I’m currently learning Python, Open CV, Bug Bounty Hunting and QR Codes 
 
