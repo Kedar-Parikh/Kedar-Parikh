@@ -10,11 +10,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on cracking entrances xD
+- 🔭 I’m currently working on my WAPT skills
 
-- 🌱 I’m currently learning Python, Open CV, Bug Bounty Hunting and QR Codes 
+- 🌱 I’m currently learning Networks, WAPT, and Network Security 
 
-- 👯 I’m looking to collaborate on Python Projects 
+- 👯 I’m looking to collaborate on Python Projects, CTFs, Pen-testing Tools
 
 - 💬 Talk to me about Python, Linux, Cybersecurity and Linux Customizations  
 
